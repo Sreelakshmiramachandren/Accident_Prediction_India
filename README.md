@@ -14,4 +14,4 @@ Data-driven analysis of 5,000 Indian road accidents using Python (EDA), R (hypot
 ##  Future Work
 - Integrate real-time GPS accident data
 - Apply ML models for severity prediction
-- Build live accident hotspot maps**
+- Build live accident hotspot maps
