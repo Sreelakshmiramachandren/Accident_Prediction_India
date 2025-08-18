@@ -21,3 +21,4 @@ Data-driven analysis of 5,000 Indian road accidents using Python (EDA), R (hypot
 - Build live accident hotspot maps
 
 ##**Dashboard**
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/6e5ec20e-0539-40c7-8181-77d881a52345" />
