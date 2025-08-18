@@ -3,7 +3,7 @@
 **##  Project Overview
 Data-driven analysis of 5,000 Indian road accidents using Python (EDA), R (hypothesis testing), and Tableau (dashboard). Identifies key risk factors like helmet use, weather, and alcohol involvement to improve road safety insights and policymaking.
 
-## 🛠Tools & Technologies
+##  Tools & Technologies
 - **Python*: Data cleaning, preprocessing, exploratory data analysis
 - **R Programming*: Hypothesis testing (T-Test, ANOVA, Chi-Square, etc.)
 - **Tableau**: Interactive dashboard and data visualization
@@ -20,5 +20,5 @@ Data-driven analysis of 5,000 Indian road accidents using Python (EDA), R (hypot
 - Apply ML models for severity prediction
 - Build live accident hotspot maps
 
-##**Dashboard**
+##**Dashboard Preview**
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/6e5ec20e-0539-40c7-8181-77d881a52345" />
